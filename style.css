@@ -1,0 +1,44 @@
+body{
+    background-color: black;
+    margin: 20px;
+    padding: 20px;
+    color: white;
+}
+.class{
+font-family: Space Grotesk;
+font-size: 64px;
+font-style: normal;
+font-weight: 700;
+line-height: 93.336%;
+letter-spacing: 5.44px;
+flex-shrink: 0;
+padding: 20px;
+margin: 20px;
+}
+.color{
+
+    color: yellow;
+
+}
+.sec{
+    align-items: center;
+    justify-items: center;
+    width: 423px;
+height: 127px;
+flex-shrink: 0;
+}
+.ecilpe{
+    width: 517px;
+    height: 517px;
+    flex-shrink: 0;
+    border-radius: 517px;
+border: 1px solid #FFF;
+}
+.img1{
+    width: 433px;
+height: 400px;
+flex-shrink: 0;
+border-radius: 216.5px;
+background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+
+}
